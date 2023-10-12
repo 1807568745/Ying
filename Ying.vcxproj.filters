@@ -27,9 +27,15 @@
     <ClInclude Include="src\Ying\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Ying\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Ying\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Ying\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

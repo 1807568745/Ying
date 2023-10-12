@@ -1,2 +1,6 @@
 ﻿  SandboxApp.cpp
-D:\LAOYING\Graphics\Ying\src\Ying\EntryPoint.h(8,2): error C3861: 'printf': identifier not found
+D:\LAOYING\Graphics\Ying\src\Ying\Log.h(16,42): warning C4251: 'Ying::Log::s_CoreLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Ying::Log'
+D:\LAOYING\Graphics\Ying\vendor\spdlog\include\spdlog\details\registry.h(33,31): message : see declaration of 'std::shared_ptr<spdlog::logger>'
+D:\LAOYING\Graphics\Ying\src\Ying\Log.h(17,42): warning C4251: 'Ying::Log::s_ClientLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Ying::Log'
+D:\LAOYING\Graphics\Ying\vendor\spdlog\include\spdlog\details\registry.h(33,31): message : see declaration of 'std::shared_ptr<spdlog::logger>'
+  SandBox.vcxproj -> D:\LAOYING\Graphics\Ying\bin\Debug-x64\SandBox\SandBox.exe

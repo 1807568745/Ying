@@ -1,11 +1,13 @@
 d:\laoying\graphics\ying\bin_int\debug-x64\ying\vc143.pdb
 d:\laoying\graphics\ying\bin_int\debug-x64\ying\vc143.idb
-d:\laoying\graphics\ying\bin_int\debug-x64\ying\test.obj
+d:\laoying\graphics\ying\bin_int\debug-x64\ying\application.obj
+d:\laoying\graphics\ying\bin_int\debug-x64\ying\log.obj
+d:\laoying\graphics\ying\bin\debug-x64\ying\ying.lib
+d:\laoying\graphics\ying\bin\debug-x64\ying\ying.exp
 d:\laoying\graphics\ying\bin_int\debug-x64\ying\ying.ilk
 d:\laoying\graphics\ying\bin\debug-x64\ying\ying.dll
 d:\laoying\graphics\ying\bin\debug-x64\ying\ying.pdb
-d:\laoying\graphics\ying\bin\debug-x64\ying\ying.lib
-d:\laoying\graphics\ying\bin\debug-x64\ying\ying.exp
+d:\laoying\graphics\ying\bin_int\debug-x64\ying\test.obj
 d:\laoying\graphics\ying\bin_int\debug-x64\ying\ying.vcxproj.filelistabsolute.txt
 d:\laoying\graphics\ying\bin_int\debug-x64\ying\ying.tlog\cl.command.1.tlog
 d:\laoying\graphics\ying\bin_int\debug-x64\ying\ying.tlog\cl.items.tlog
